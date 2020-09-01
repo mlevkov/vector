@@ -19,6 +19,7 @@
 /scripts/release-helm.sh @MOZGIII
 /scripts/deploy-kubernetes-test.sh @MOZGIII
 /scripts/test-e2e-kubernetes.sh @MOZGIII
+/scripts/kubernetes-yaml.sh @MOZGIII
 
 /src/buffers/ @a-rodin
 /src/kubernetes/ @MOZGIII
